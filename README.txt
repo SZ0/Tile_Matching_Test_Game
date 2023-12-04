@@ -1,9 +1,9 @@
 CREDITS:
 
 IMAGES:
-Background image edited, but original by: <a href="https://pixabay.com/users/popcorn_pix-7815162/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4874436">Paula Wood</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4874436">Pixabay</a>
-Pinecone image edited, but original by: <a href="https://www.flaticon.com/free-icons/pinecone" title="pinecone icons">Pinecone icons created by Freepik - Flaticon</a>
-Font by https://www.fontspace.com/ggbotnet
+Background image edited, but original by Paula Wood: https://pixabay.com/users/popcorn_pix-7815162/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4874436 at Pixabay: https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4874436
+Pinecone image edited, but original by Freepik - Flaticon: https://www.flaticon.com/free-icons/pinecone
+Font Rainbow 2000 Font by https://www.fontspace.com/ggbotnet
 
 
 
